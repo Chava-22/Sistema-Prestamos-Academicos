@@ -1,0 +1,62 @@
+[
+  {
+    "codigo": "EQ001",
+    "nombre": "Laptop",
+    "marca": "Lenovo",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "EQ002",
+    "nombre": "Laptop",
+    "marca": "HP",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "EQ003",
+    "nombre": "Laptop",
+    "marca": "Dell",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "EQ004",
+    "nombre": "Tablet",
+    "marca": "Samsung",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "EQ005",
+    "nombre": "Tablet",
+    "marca": "Apple",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "EQ006",
+    "nombre": "Celular",
+    "marca": "Xiaomi",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "EQ007",
+    "nombre": "Celular",
+    "marca": "Samsung",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "EQ008",
+    "nombre": "Proyector",
+    "marca": "Epson",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "EQ009",
+    "nombre": "Proyector",
+    "marca": "BenQ",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "EQ010",
+    "nombre": "Laptop",
+    "marca": "ASUS",
+    "estado": "Prestado"
+  }
+]
