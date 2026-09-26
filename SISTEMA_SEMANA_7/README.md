@@ -1,21 +1,5 @@
 # Sistema de Préstamos Académicos
 
-Andrés Calderón
-Programación Estructurada
-Universidad de Especialidades Espíritu Santo (UEES)
-
-## Qué hace este proyecto
-
-Es un sistema que simula cómo una universidad presta equipos (laptops, proyectores, tablets, etc.) a sus estudiantes. Empezó como un ejercicio de programación orientada a objetos y fue creciendo semana a semana: primero las clases básicas, luego polimorfismo, después un catálogo con colecciones, una interfaz gráfica, validación de datos, y en la entrega más reciente, una fila de espera para cuando un equipo no está disponible, organizada con una estructura de datos hecha desde cero y separando el guardado de datos del resto de la lógica. Este documento explica cómo quedó todo junto y cómo funciona, para que cualquiera que lo revise pueda entenderlo sin tener que leer el código línea por línea.
-
-## La idea general
-
-Un usuario (un estudiante) puede pedir prestado un equipo. Mientras lo tiene, el equipo queda marcado como "Prestado". Cuando lo devuelve, si se demoró más días de la cuenta, se le cobra una multa, y esa multa no es igual para todos: existen dos tipos de cliente. Uno es el cliente mayorista, pensado para una facultad o departamento que pide equipos en volumen y que por eso recibe un 20% de descuento en la multa. El otro es el cliente minorista, un estudiante individual, con un 5% de descuento.
-
-Lo interesante es que, al momento de cobrar la multa, el programa no revisa con un "si es mayorista, entonces... si es minorista, entonces...". Simplemente le dice al cliente "calcula tu descuento", y cada tipo de cliente sabe responder a su manera. Eso es polimorfismo: el mismo mensaje produce resultados distintos según quién lo reciba.
-
-# Sistema de Préstamos Académicos
-
 **Nombre:** Andrés Calderón
 **Universidad:** Universidad de Especialidades Espíritu Santo (UEES)
 **Carrera:** Ingeniería en Desarrollo, Operación y Seguridad de Software
