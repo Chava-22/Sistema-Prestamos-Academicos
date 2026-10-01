@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": "ED001",
+    "nombre": "LAPTOP",
+    "marca": "HP",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "ED002",
+    "nombre": "Laptop",
+    "marca": "Lenovo",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "ED003",
+    "nombre": "Laptop",
+    "marca": "Dell",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "ED004",
+    "nombre": "ED004",
+    "marca": "ED004",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "ED005",
+    "nombre": "Proyector",
+    "marca": "BenQ",
+    "estado": "Prestado"
+  },
+  {
+    "codigo": "ED006",
+    "nombre": "Tablet",
+    "marca": "Samsung",
+    "estado": "Disponible"
+  },
+  {
+    "codigo": "ED007",
+    "nombre": "Tablet",
+    "marca": "Samsung",
+    "estado": "Disponible"
+  }
+]
